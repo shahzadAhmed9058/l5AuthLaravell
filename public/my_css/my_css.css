@@ -1,0 +1,37 @@
+/*#app{*/
+    /*color: black;*/
+/*}*/
+/*.navbar-settings{*/
+    /*background: lightblue;*/
+
+/*}*/
+/*.navbar-settings a{*/
+    /*color: black;*/
+/*}*/
+/*.icon-bar{*/
+    /*background-color: white;*/
+/*}*/
+/*h3{*/
+    /*margin-left: 110px;*/
+/*}*/
+.main{
+    background: white;
+    /*height: 100%;*/
+    padding: 5px;
+}
+
+.content-settings{
+    /*overflow: auto;*/
+    /*padding-bottom: 100px;*/
+    /*background: #ffffff;*/
+    height: 400px;
+    /*padd*/
+}
+.footer-settings{
+    padding: 20px;
+    /*background-color: lightblue;*/
+    /*position: relative;*/
+    /*height: 100%;*/
+    /*margin-top: -100px;*/
+   /*clear: both;*/
+}
